@@ -12,7 +12,7 @@ public class PrintsPooler implements Cloneable{
     }
 
     public static PrintsPooler getInstance(){
-        // Handle concurrency also
+        // Handled concurrency also
         if(printsPooler == null){
             synchronized (PrintsPooler.class){
                 printsPooler = new PrintsPooler();

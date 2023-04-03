@@ -16,6 +16,8 @@ class StudentTest {
                 .build();
     }
 
+
+
     @Test
     public void test2(){
         Throwable exception = assertThrows(RuntimeException.class, () -> new Student.Builder()
@@ -24,6 +26,16 @@ class StudentTest {
                 .setPsp(90.0)
                 .build());
         assertEquals("Validation failed. cannot create student object", exception.getMessage());
+    }
+
+    @Test
+    public void test3(){
+        Student s =Student.Builder.createBuilder()
+                .setfName("kranti")
+                .setlName("kumar")
+                .setAge(34)
+                .setPsp(90.0)
+                .build();
     }
 
 }
