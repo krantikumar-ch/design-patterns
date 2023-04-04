@@ -1,9 +1,9 @@
-package structural.videoconference;
+package structural.adapter.videoconference;
 
-import structural.videoconference.adapters.GoogleMeetingAdapter;
-import structural.videoconference.adapters.VideoConferenceAdapter;
-import structural.videoconference.adapters.WebExAdapter;
-import structural.videoconference.adapters.ZoomAdapter;
+import structural.adapter.videoconference.adapters.GoogleMeetingAdapter;
+import structural.adapter.videoconference.adapters.VideoConferenceAdapter;
+import structural.adapter.videoconference.adapters.WebExAdapter;
+import structural.adapter.videoconference.adapters.ZoomAdapter;
 
 public class VideoConferenceAdapterFactory {
 

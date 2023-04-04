@@ -1,6 +1,6 @@
-package structural.videoconference.adapters;
+package structural.adapter.videoconference.adapters;
 
-import structural.videoconference.apis.ZoomApi;
+import structural.adapter.videoconference.apis.ZoomApi;
 
 public class ZoomAdapter implements VideoConferenceAdapter{
     private ZoomApi zoomApi;

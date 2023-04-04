@@ -1,6 +1,6 @@
-package structural.videoconference.adapters;
+package structural.adapter.videoconference.adapters;
 
-import structural.videoconference.apis.WebExMeetingApi;
+import structural.adapter.videoconference.apis.WebExMeetingApi;
 
 public class WebExAdapter implements VideoConferenceAdapter{
 

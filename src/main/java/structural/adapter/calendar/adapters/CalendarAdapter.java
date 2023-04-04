@@ -1,4 +1,4 @@
-package structural.calendar.adapters;
+package structural.adapter.calendar.adapters;
 
 import java.util.Date;
 

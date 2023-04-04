@@ -1,6 +1,6 @@
-package structural.calendar.adapters;
+package structural.adapter.calendar.adapters;
 
-import structural.calendar.apis.MicrosoftCalendarApi;
+import structural.adapter.calendar.apis.MicrosoftCalendarApi;
 
 import java.util.Date;
 import java.util.HashMap;

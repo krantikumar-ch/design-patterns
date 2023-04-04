@@ -1,4 +1,4 @@
-package structural.videoconference.apis;
+package structural.adapter.videoconference.apis;
 
 import java.util.Collections;
 import java.util.List;

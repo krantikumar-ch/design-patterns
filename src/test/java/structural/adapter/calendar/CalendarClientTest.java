@@ -1,4 +1,4 @@
-package structural.calendar;
+package structural.adapter.calendar;
 
 import org.junit.jupiter.api.Test;
 

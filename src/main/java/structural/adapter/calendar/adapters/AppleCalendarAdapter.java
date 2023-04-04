@@ -1,6 +1,6 @@
-package structural.calendar.adapters;
+package structural.adapter.calendar.adapters;
 
-import structural.calendar.apis.AppleCalendarApi;
+import structural.adapter.calendar.apis.AppleCalendarApi;
 
 import java.util.Date;
 

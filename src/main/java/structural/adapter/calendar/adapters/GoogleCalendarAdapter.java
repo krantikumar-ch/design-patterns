@@ -1,6 +1,6 @@
-package structural.calendar.adapters;
+package structural.adapter.calendar.adapters;
 
-import structural.calendar.apis.GoogleCalendarApi;
+import structural.adapter.calendar.apis.GoogleCalendarApi;
 
 import java.util.Date;
 

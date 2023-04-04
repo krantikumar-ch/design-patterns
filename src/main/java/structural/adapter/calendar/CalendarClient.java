@@ -1,6 +1,6 @@
-package structural.calendar;
+package structural.adapter.calendar;
 
-import structural.calendar.adapters.CalendarAdapter;
+import structural.adapter.calendar.adapters.CalendarAdapter;
 
 import java.util.Date;
 

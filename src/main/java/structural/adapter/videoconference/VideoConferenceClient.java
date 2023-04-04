@@ -1,6 +1,6 @@
-package structural.videoconference;
+package structural.adapter.videoconference;
 
-import structural.videoconference.adapters.VideoConferenceAdapter;
+import structural.adapter.videoconference.adapters.VideoConferenceAdapter;
 
 /**
  * Design a Video Conference to connect with user by given id.

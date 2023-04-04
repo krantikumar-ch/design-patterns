@@ -1,9 +1,9 @@
-package structural.calendar;
+package structural.adapter.calendar;
 
-import structural.calendar.adapters.AppleCalendarAdapter;
-import structural.calendar.adapters.CalendarAdapter;
-import structural.calendar.adapters.GoogleCalendarAdapter;
-import structural.calendar.adapters.MicrosoftCalendarAdapter;
+import structural.adapter.calendar.adapters.AppleCalendarAdapter;
+import structural.adapter.calendar.adapters.CalendarAdapter;
+import structural.adapter.calendar.adapters.GoogleCalendarAdapter;
+import structural.adapter.calendar.adapters.MicrosoftCalendarAdapter;
 
 public class CalendarAdaptorFactory {
 

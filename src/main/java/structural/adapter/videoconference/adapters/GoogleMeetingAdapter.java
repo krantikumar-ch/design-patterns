@@ -1,6 +1,6 @@
-package structural.videoconference.adapters;
+package structural.adapter.videoconference.adapters;
 
-import structural.videoconference.apis.GoogleMeetingApi;
+import structural.adapter.videoconference.apis.GoogleMeetingApi;
 
 public class GoogleMeetingAdapter implements VideoConferenceAdapter{
     private GoogleMeetingApi googleMeetingApi;

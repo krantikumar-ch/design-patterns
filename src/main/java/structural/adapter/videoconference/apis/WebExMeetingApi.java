@@ -1,4 +1,4 @@
-package structural.videoconference.apis;
+package structural.adapter.videoconference.apis;
 
 public class WebExMeetingApi {
 

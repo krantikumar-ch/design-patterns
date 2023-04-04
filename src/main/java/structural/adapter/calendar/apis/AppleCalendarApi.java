@@ -1,4 +1,4 @@
-package structural.calendar.apis;
+package structural.adapter.calendar.apis;
 
 import java.util.Collections;
 

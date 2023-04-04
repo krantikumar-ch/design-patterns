@@ -1,4 +1,4 @@
-package structural.videoconference;
+package structural.adapter.videoconference;
 
 import org.junit.jupiter.api.Test;
 
